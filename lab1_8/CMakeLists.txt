@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.13)
-project(lab1_8 C)
-
-set(CMAKE_C_STANDARD 11)
-
-add_executable(lab1_8 main.c)
